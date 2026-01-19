@@ -1,4 +1,4 @@
-a# Amazon Sales & Reviews – Data Science Project
+# Amazon Sales & Reviews – Data Science Project
 
 ## Beskrivning
 Detta projekt analyserar Amazon-produkter med fokus på pris, rabatter och kundbetyg.
